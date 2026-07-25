@@ -89,3 +89,9 @@ h1 {
 .btn-primary:hover {
     background: #1d4ed8;
 }
+
+.bank-logo-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
